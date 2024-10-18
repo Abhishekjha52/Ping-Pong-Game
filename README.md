@@ -2,6 +2,10 @@
 
 Welcome to the Ping-Pong Game! This project is a simple implementation of the classic Pong game using HTML5 canvas and JavaScript.
 
+## Game UI
+![image](https://github.com/user-attachments/assets/249e1bcc-cd94-40aa-a2a9-e2dc0e335fc5)
+
+
 ## Table of Contents
 
 - [Introduction](#ping-pong-game)
